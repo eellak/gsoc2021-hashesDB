@@ -29,7 +29,7 @@ dependencies = [
   "py-tlsh==4.7.2",
   "pycparser==2.20",
   "PyGithub==1.55",
-  "PyJWT==2.1.0",
+  "PyJWT==2.15.0",
   "PyNaCl==1.4.0",
   "python-dateutil==2.8.2",
   "python-gitlab==2.10.0",
