@@ -6,7 +6,7 @@ charset-normalizer==2.0.4
 click==8.0.1
 Deprecated==1.1.5
 dicttoxml==1.7.4
-dulwich==0.20.24
+dulwich==1.2.9
 greenlet==1.1.1
 hypothesis==6.14.6
 idna==3.2
